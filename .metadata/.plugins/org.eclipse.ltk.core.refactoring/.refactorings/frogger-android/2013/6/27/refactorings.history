@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.rengelbert.froggergdx&apos; to &apos;com.candb.frogger&apos;&#x0A;- Original project: &apos;frogger-android&apos;&#x0A;- Original element: &apos;frogger-android/src/com.rengelbert.froggergdx&apos;&#x0A;- Renamed element: &apos;frogger-android/src/com.candb.frogger&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings&#x0A;- Rename subpackages of the package" description="Rename package &apos;com.rengelbert.froggergdx&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.rengelbert.froggergdx" name="com.candb.frogger" qualified="false" references="true" stamp="1372607601768" textual="false" version="1.0"/>
+</session>
